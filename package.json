@@ -1,0 +1,19 @@
+{
+  "name": "async-await",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "moralis": "0.0.183",
+    "nodemon": "^2.0.15",
+    "web3": "^1.6.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
